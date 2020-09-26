@@ -1,6 +1,6 @@
-# Exploring ConvNets with Mnist and Cat and Dogs Datasets
+# Exploring ConvNets with the MNIST and Cat and Dogs Datasets
 
-In this repository we have covered following topics:
+In this repository, we have covered the following topics:
 
 * ConvNets and Pooling Layers
 * How to use pre-trained models
